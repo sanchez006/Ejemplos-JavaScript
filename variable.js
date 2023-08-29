@@ -9,3 +9,5 @@ let d;
 d=5;
 
 let f=8;
+let y=7;
+let suma2;
