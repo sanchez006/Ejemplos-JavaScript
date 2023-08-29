@@ -6,3 +6,6 @@ console.log(suma);
 
 
 let d;
+d=5;
+
+let f=8;
